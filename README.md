@@ -38,7 +38,7 @@ A full-stack team task management application with role-based access control, ka
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/alok-108/team-task-manager.git
 cd team-task-manager
 
 # Install all dependencies
